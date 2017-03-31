@@ -1,2 +1,2 @@
 # AddIntegers
-# Swing test case
+Swing test case
