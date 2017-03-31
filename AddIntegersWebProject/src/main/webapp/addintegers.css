@@ -1,0 +1,49 @@
+h1 {
+	margin: 4em 0em 1em 0em;
+	background-color: #006699;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+h3 {
+	margin: auto;
+	text-align: center;
+}
+
+._addintegers {
+	margin: auto;
+	background-color: #F8F8F8;
+	text-align: center;
+}
+
+#results_label {
+	background-color: #F8F8F8;
+	text-align: center;
+}
+
+.additem_div {
+	margin: auto;
+	text-align: center;
+	border-radius: 5em;
+}
+
+form {
+	display: inline-block;
+}
+
+.home_page {
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+}
+
+label {
+	display: inline-block;
+	width: 9em;
+	text-align: center;
+}
+
+.txtfield {
+	display: inline-block;
+	width: 11em;
+}

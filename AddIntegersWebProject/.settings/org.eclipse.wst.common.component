@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="AddIntegersWebProject">
+        <wb-resource deploy-path="/src/main/resources/META-INF" source-path="/src/main/resources/META-INF"/>
+        <wb-resource deploy-path="/src/main/config" source-path="/src/main/config"/>
+        <wb-resource deploy-path="/src/main/java" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/src/main/resources" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/lib" source-path="/lib"/>
+        <wb-resource deploy-path="/genSource" source-path="/genSource"/>
+        <wb-resource deploy-path="/src/main/webapp/WEB-INF" source-path="/src/main/webapp/WEB-INF"/>
+        <property name="java-output-path" value="build/classes"/>
+        <property name="service.gensrc.key" value="true"/>
+        <property name="service.gensrc.path" value="genSource"/>
+        <property name="bundle.web.content.path" value="src/main/webapp/WEB-INF"/>
+        <property name="bundle.web.context.path" value="AddIntegersWebProject"/>
+    </wb-module>
+</project-modules>

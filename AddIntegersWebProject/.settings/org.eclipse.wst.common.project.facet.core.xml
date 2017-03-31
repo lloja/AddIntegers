@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+  <runtime name="Application Platform Integration Server"/>
+  <installed facet="java" version="1.8"/>
+  <installed facet="com.softwareag.applatform.pld.core.facet.bundle" version="0.9"/>
+  <installed facet="com.softwareag.applatform.pld.is.facet.bundle" version="0.9"/>
+  <installed facet="com.softwareag.applatform.pld.web.facet.bundle" version="0.9"/>
+</faceted-project>

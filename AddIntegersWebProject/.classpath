@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="genSource"/>
+	<classpathentry kind="src" path="src/main/config"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jvm">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/com.softwareag.applatform.pld.is.runtimeProvider/Application Platform Integration Server"/>
+	<classpathentry kind="con" path="com.softwareag.applatform.pld.core.sdk"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
